@@ -5,3 +5,4 @@
 - [x] URI Grafos 1082
 - [ ] URI Ad-Hoc 1086
 - [x] URI Grafos 1194
+- [x] URI Iniciante 2653
