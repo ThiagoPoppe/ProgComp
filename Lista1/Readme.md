@@ -7,4 +7,5 @@
 - [x] URI Grafos 1194
 - [ ] URI Estruturas e Bibliotecas 1340
 - [x] URI Iniciante 2653
+- [x] URI Matemática 2661
 - [x] URI Strings 2880
