@@ -3,7 +3,7 @@
 - [x] URI Iniciante 1001
 - [x] URI Iniciante 1021
 - [x] URI Grafos 1082
-- [ ] URI Ad-Hoc 1086
+- [x] URI Ad-Hoc 1086
 - [x] URI Grafos 1194
 - [x] URI Estruturas e Bibliotecas 1340
 - [x] URI Ad-Hoc 1357
