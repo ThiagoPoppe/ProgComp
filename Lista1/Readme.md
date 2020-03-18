@@ -5,6 +5,7 @@
 - [x] URI Grafos 1082
 - [x] URI Ad-Hoc 1086
 - [x] URI Grafos 1194
+- [ ] URI Grafos 1205
 - [x] URI Estruturas e Bibliotecas 1340
 - [x] URI Ad-Hoc 1357
 - [x] URI Paradigmas 1642
