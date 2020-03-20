@@ -13,5 +13,5 @@
 - [x] URI Iniciante 2653
 - [x] URI Matemática 2661
 - [x] URI Matemática 2667
-- [ ] URI Iniciante 2784
+- [x] URI Iniciante 2784
 - [x] URI Strings 2880
