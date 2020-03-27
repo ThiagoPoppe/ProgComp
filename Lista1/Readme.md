@@ -17,3 +17,4 @@
 - [x] URI Grafos 2683
 - [x] URI Iniciante 2784
 - [x] URI Strings 2880
+- [x] URI Ad-Hoc 2884
