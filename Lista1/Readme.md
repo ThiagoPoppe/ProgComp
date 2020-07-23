@@ -8,6 +8,7 @@
 - [x] URI Grafos 1205
 - [x] URI Estruturas e Bibliotecas 1340
 - [x] URI Ad-Hoc 1357
+- [ ] URI Strings 1385
 - [ ] URI Ad-Hoc 1404
 - [x] URI Paradigmas 1642
 - [x] URI Paradigmas 1767
@@ -18,3 +19,4 @@
 - [x] URI Iniciante 2784
 - [x] URI Strings 2880
 - [x] URI Ad-Hoc 2884
+- [ ] URI Grafos 2962
